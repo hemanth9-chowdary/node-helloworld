@@ -1,7 +1,7 @@
 {
-  "name": "first-app",
+  "name": "helloworld-app",
   "version": "1.0.1",
-  "description": "My First node app",
+  "description": "Hello World node app",
   "main": "app.js",
   "scripts": {
     "start": "node index.js",
